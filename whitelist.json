@@ -1,0 +1,44 @@
+{
+  "whitelist": {
+    "1536552360": { "level": 1e308, "note": "kaiba" },
+    "707894671":  { "level": 5,     "note": "bixt" },
+    "180492862":  { "level": 1e308, "note": "cornball1566" },
+    "1534146802": { "level": 1e308, "note": "EYYYYYYYY... aura moments" },
+    "7063892054": { "level": 10,    "note": "alt" },
+    "2959025":    { "level": 5,     "note": "flqrastic" },
+    "2938109169": { "level": 5,     "note": "star" },
+    "11052742571":{ "level": 5,     "note": "saif alt" },
+    "208553081":  { "level": 5,     "note": "feeblebeebop" },
+    "662158337":  { "level": 5,     "note": "saif main" },
+    "753096985":  { "level": 1e308, "note": "flaming" },
+    "2784266026": { "level": 1e308, "note": "tco" },
+    "4940357204": { "level": 1e308, "note": "meno / fafa" },
+    "6047271":    { "level": 5,     "note": "mortgage (mod)" },
+    "2339177943": { "level": 4,     "note": "north (mod)" },
+    "1426689964": { "level": 5,     "note": "unknown (mod)" },
+    "560425794":  { "level": 4,     "note": "Maric (mod)" },
+    "24462100":   { "level": 5,     "note": "FabricRealities (mod)" },
+    "5605941500": { "level": 5,     "note": "illuminescen1 (mod)" },
+    "96222053":   { "level": 5,     "note": "Zchur (mod)" },
+    "654556486":  { "level": 3,     "note": "SpawnNici (mod)" },
+    "3661943369": { "level": 4,     "note": "ImCosmicGarou (mod)" },
+    "760930296":  { "level": 2,     "note": "1x_h (trello)" },
+    "71668391":   { "level": 2,     "note": "patrilogo2 (trello)" },
+    "601510209":  { "level": 2,     "note": "Lunaticlypse (trello)" },
+    "9016277258": { "level": 2,     "note": "autumnaI_indigo (trello)" },
+    "5223859681": { "level": 2,     "note": "kozuyashi (trello)" },
+    "1385852392": { "level": 2,     "note": "TheGuyOfNoOne (trello)" },
+    "106240953":  { "level": 2,     "note": "gokugod95 (trello)" },
+    "951025218":  { "level": 2,     "note": "(trello)" },
+    "3710740559": { "level": 5,     "note": "NTF (trello)" },
+    "633818813":  { "level": 10,    "note": "hihello pro" }
+  },
+  "brownie": {
+    "userID": 3038733586,
+    "rolls": [
+      { "chance": 70, "level": 1 },
+      { "chance": 20, "level": 2 },
+      { "chance": 10, "level": 5 }
+    ]
+  }
+}
